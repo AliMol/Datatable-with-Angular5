@@ -1,6 +1,6 @@
-#Datatable-with-Angular5
+# Datatable-with-Angular5
 
-#Setup
+# Setup
 
 1 - Download the project
 
